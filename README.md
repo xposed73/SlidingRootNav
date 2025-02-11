@@ -7,7 +7,7 @@ The library is a DrawerLayout-like ViewGroup, where a "drawer" is hidden under t
 ## Gradle 
 Add this into your dependencies block.
 ```
-implementation 'com.github.xposed73:SlidingRootNav:Tag'
+implementation 'com.github.xposed73:SlidingRootNav:1.0.0'
 ```
 
 ## Wiki
