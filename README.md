@@ -9,8 +9,6 @@ Add this into your dependencies block.
 ```
 implementation 'com.github.xposed73:SlidingRootNav:Tag'
 ```
-## Sample
-Please see the [sample app](sample/src/main/java/com/yarolegovich/slidingrootnav/sample) for a library usage example.
 
 ## Wiki
 #### Usage:
