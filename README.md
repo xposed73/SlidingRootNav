@@ -10,7 +10,8 @@ Add this into your dependencies block.
 implementation 'com.github.xposed73:SlidingRootNav:1.0.0'
 ```
 ## Kotlin DSL
-Follow these steps
+# Follow these steps
+
 ![GifSample](art/tutorial.gif)
 
 ## Wiki
