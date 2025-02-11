@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "SlidingNav"
-include(":app")
+include(":demo")
 include(":library")

@@ -3,12 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.app.library"
+    namespace = "com.slidingrootnav"
     compileSdk = 35
 
     defaultConfig {
         minSdk = 21
-
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles("consumer-rules.pro")
     }

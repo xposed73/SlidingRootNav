@@ -8,7 +8,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import com.app.slidingnav.R;
+import com.slidingrootnav.demo.R;
 
 /**
  * Created by yarolegovich on 25.03.2017.

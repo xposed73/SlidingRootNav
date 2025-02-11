@@ -13,7 +13,7 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.app.slidingnav.R;
+import com.slidingrootnav.demo.R;
 import com.slidingrootnav.SlidingRootNav;
 import com.slidingrootnav.SlidingRootNavBuilder;
 import com.slidingrootnav.demo.menu.DrawerAdapter;

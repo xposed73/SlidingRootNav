@@ -11,7 +11,7 @@ import androidx.annotation.LayoutRes;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.widget.Toolbar;
 
-import com.app.library.R;
+import com.slidingrootnav.R;
 import com.slidingrootnav.callback.DragListener;
 import com.slidingrootnav.callback.DragStateListener;
 import com.slidingrootnav.transform.CompositeTransformation;

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.app.slidingnav"
+    namespace = "com.slidingrootnav.demo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.app.slidingnav"
+        applicationId = "com.slidingrootnav.demo"
         minSdk = 21
         targetSdk = 35
         versionCode = 1
